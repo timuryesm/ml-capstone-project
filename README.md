@@ -47,7 +47,9 @@ See project tree above.
 - Hyperparameter tuning
 - Deploy via Streamlit / FastAPI
 
-### Project Structure
+## 📂 Project Structure
+
+```bash
 ml-capstone-project/
 │
 ├── data/
