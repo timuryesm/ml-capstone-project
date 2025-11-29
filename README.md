@@ -28,14 +28,14 @@ The project demonstrates:
 
 | Stage | Description |
 |---|---|
-1. Data Cleaning | Handle missingness, placeholders, constant & duplicate columns, type conversions
-2. EDA | Target imbalance, distributions, correlations, MI scores, PCA
-3. Feature Engineering | MI-based selection, row-level engineered features, categorical prep
-4. Modeling | Logistic Regression, XGBoost, CatBoost, tuning, stacking
-5. Model Evaluation | ROC-AUC, PR-AUC, F1, accuracy, comparison plots
-6. Model Interpretation | Feature importances, permutation importance
-7. Business Insights | How a bank would use the model in real targeting
-8. Final Recommendations | What the marketing team should do
+Data Cleaning | Handle missingness, placeholders, constant & duplicate columns, type conversions
+DA | Target imbalance, distributions, correlations, MI scores, PCA
+Feature Engineering | MI-based selection, row-level engineered features, categorical prep
+Modeling | Logistic Regression, XGBoost, CatBoost, tuning, stacking
+Model Evaluation | ROC-AUC, PR-AUC, F1, accuracy, comparison plots
+Model Interpretation | Feature importances, permutation importance
+Business Insights | How a bank would use the model in real targeting
+Final Recommendations | What the marketing team should do
 
 ## 🤖 Models Implemented
 Baseline Models
