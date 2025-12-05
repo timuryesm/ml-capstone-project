@@ -1,4 +1,4 @@
-# Springleaf Marketing Response — Machine Learning Capstone Project
+# Springleaf Marketing Response — Machine Learning Project
 
 ## 🎯 Project Objective
 This project builds a complete end-to-end machine learning solution for the Springleaf Marketing Response dataset (Kaggle).
